@@ -1,0 +1,1 @@
+{"chat_content": "Error loading model. Please ensure model.gguf is in the models folder.\n\n\nNo saved sessions found.\n\n\n", "temperature": 0.7, "max_tokens": 512.0, "roleplay_enabled": false, "selected_persona": "helpful_assistant"}
